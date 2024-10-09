@@ -1,8 +1,8 @@
 {
-  "name": "Basic blocklist",
-  "description": "Basic blocklist based on HaGeZi's rules and Russian specific domains",
-  "homepage": "https://github.com/ksusonic/dns-hostlist",
-  "license": "GPLv3",
+  "name": "Slava full list",
+  "description": "Blocklist compiled from various sources",
+  "homepage": "https://github.com/searayeah/dns-hostlist",
+  "license": "MIT",
   "sources": [
     {
       "name": "HaGeZi's Pro++ Blocklist",

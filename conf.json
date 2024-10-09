@@ -1,0 +1,268 @@
+{
+  "name": "List name",
+  "description": "List description",
+  "homepage": "https://example.org/",
+  "license": "GPLv3",
+  "version": "1.0.0.0",
+  "sources": [
+    {
+      "name": "oisd big",
+      "source": "https://big.oisd.nl",
+      "type": "adblock"
+    },
+    {
+      "name": "1hosts pro",
+      "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hagezi ultimate",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hagezi tif",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hagezi dynamic dns",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hagezi badware hoster",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hagezi spam tlds",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hagezi gambling",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
+      "type": "adblock"
+    },
+    {
+      "name": "hagezi no safe search",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "hblock",
+      "source": "https://hblock.molinero.dev/hosts_adblock.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist abuse",
+      "source": "https://blocklistproject.github.io/Lists/adguard/abuse-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist ads",
+      "source": "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist crypto",
+      "source": "https://blocklistproject.github.io/Lists/adguard/crypto-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist drugs",
+      "source": "https://blocklistproject.github.io/Lists/adguard/drugs-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist fraud",
+      "source": "https://blocklistproject.github.io/Lists/adguard/fraud-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist gambling",
+      "source": "https://blocklistproject.github.io/Lists/adguard/gambling-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist malware",
+      "source": "https://blocklistproject.github.io/Lists/adguard/malware-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist phishing",
+      "source": "https://blocklistproject.github.io/Lists/adguard/phishing-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist ransomware",
+      "source": "https://blocklistproject.github.io/Lists/adguard/ransomware-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist redirect",
+      "source": "https://blocklistproject.github.io/Lists/adguard/redirect-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist scam",
+      "source": "https://blocklistproject.github.io/Lists/adguard/scam-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist tiktok",
+      "source": "https://blocklistproject.github.io/Lists/adguard/tiktok-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "blocklist tracking",
+      "source": "https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "goodbye ads adblock",
+      "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "goodbye ads spotify",
+      "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "goodbye ads youtube",
+      "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "lightswitch05 ads and tracking",
+      "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "lightswitch05 amp",
+      "source": "https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "lightswitch05 dating",
+      "source": "https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "lightswitch05 hate and junk",
+      "source": "https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "StevenBlack unified fakenews gambling",
+      "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts",
+      "type": "hosts"
+    },
+
+    {
+      "name": "Dan pollok",
+      "source": "https://someonewhocares.org/hosts/hosts",
+      "type": "hosts"
+    },
+
+    {
+      "name": "windowsspyblocker spy",
+      "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "windowsspyblocker update",
+      "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "windowsspyblocker extra",
+      "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "no coin",
+      "source": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+      "type": "hosts"
+    },
+
+    {
+      "name": "awavenue",
+      "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "adguard dns filter",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "peter lowe",
+      "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
+      "type": "adblock"
+    },
+
+    {
+      "name": "pi hole smart tv",
+      "source": "https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "malware phishing",
+      "source": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "malware urlhaus",
+      "source": "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "phishing army",
+      "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+      "type": "adblock"
+    }
+  ],
+  "transformations": [
+    "TrimLines",
+    "RemoveEmptyLines",
+    "RemoveComments",
+    "RemoveModifiers",
+    "Deduplicate",
+    "Compress",
+    "Validate",
+    "InsertFinalNewLine"
+  ]
+}
