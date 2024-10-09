@@ -1,7 +1,6 @@
 name: Blocklist compile
 
 on:
-  pull_request:
   schedule:
     - cron: "0 5 * * *" # every day at 05:00 am
   workflow_dispatch:

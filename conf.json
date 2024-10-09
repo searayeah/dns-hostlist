@@ -1,9 +1,9 @@
 {
-  "name": "List name",
-  "description": "List description",
-  "homepage": "https://example.org/",
-  "license": "GPLv3",
-  "version": "1.0.0.0",
+  "name": "Slava's DNS Hostlist",
+  "description": "Slava's DNS Hostlist",
+  "homepage": "https://github.com/searayeah/dns-hostlist",
+  "license": "MIT",
+  "version": "1.0",
   "sources": [
     {
       "name": "oisd big",
