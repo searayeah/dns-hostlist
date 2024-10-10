@@ -226,6 +226,12 @@
     },
 
     {
+      "name": "adguard dns pop-up filter",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt",
+      "type": "adblock"
+    },
+
+    {
       "name": "peter lowe",
       "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
       "type": "adblock"
@@ -233,7 +239,7 @@
 
     {
       "name": "pi hole smart tv",
-      "source": "https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt",
+      "source": "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt",
       "type": "adblock"
     },
 
@@ -252,6 +258,42 @@
     {
       "name": "phishing army",
       "source": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "Dandelion sprout Game Console Adblock List",
+      "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "Dandelion Sprout's AdGuard Home Compilation List - Web Push Notifications",
+      "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "Dandelion Sprout's Anti-Malware List",
+      "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "Scam Blocklist by DurableNapkin",
+      "source": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt",
+      "type": "adblock"
+    },
+
+    {
+      "name": "The Big List of Hacked Malware Web Sites",
+      "source": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
+      "type": "hosts"
+    },
+
+    {
+      "name": "uBlock filters - Badware risks",
+      "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
       "type": "adblock"
     }
   ],
